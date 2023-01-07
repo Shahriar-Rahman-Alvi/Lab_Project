@@ -241,7 +241,6 @@ void structure(int count3)
             printf("%d",flist[i].numcopy);
             printf("\n");
 
-
         }
 
 
